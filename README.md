@@ -23,3 +23,6 @@ ENABLING IPNS
 8) Set Test Mode to "Disabled" when you are ready to receive live data.
 9) Click on "Update" to save your settings.
 
+"<input type="hidden" name="ap_merchant" value="yourmerchantid@your.com"/>"
+
+Add Your Merchant Email ID and enable Test mode in Account 
